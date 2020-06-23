@@ -1,0 +1,200 @@
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+.body {
+	font-family: 'Oxygen', sans-serif;
+	background-color: #CCCCCC;
+	font-size: 16px;
+	margin-bottom: 60px;
+	color: #000000
+}
+
+.navbar {
+	background-color: #9ACD32;
+}
+
+.navbar-header {
+	padding-left: 15px;
+}
+
+.icon-bar {
+	background-color: #000000;
+}
+
+#navbar {
+	font-family: 'Contrail One', cursive;
+	padding-top: 5px;
+}
+
+#navbar li.active a{
+	color: #FFFFFF;
+	border-bottom: 1px solid;
+}
+
+.nav {
+	padding-left: 10px;
+	padding-top: 10px;
+}
+
+#nav-brand {
+	padding: 10px 0px;
+}
+
+#navbar .navbar-brand {
+	padding: 1px;
+}
+
+#navbar li a {
+	color: #000000;
+	padding: 10px 10px;
+	font-size: 16px;
+	padding-bottom: 5px;
+}
+
+#navbar a:hover {
+	background-color: unset;
+	color: #FFFFFF;
+}
+
+#navbar a:focus, #navbar .open a:focus, #navbar .open a {
+	background-color: unset;
+}
+
+#dropdown-menu {
+	background-color: #CCCCCC;
+}
+
+#dropdown-menu li a {
+	color: #333333 !important;
+	border-bottom: unset !important;
+}
+
+#dropdown-menu li a:hover {
+	background-color: #9ACD32;
+	color: #333333;
+}
+
+.brand-img {
+	display: block;
+	max-width: 80%;
+	max-height: 100%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.navbar-brand {
+	height: 103px;
+	width: 213px;
+	padding: 5px;
+}
+
+.dropdown-menu li a {
+	font-size: 15px;
+	padding: 6px 5px;
+}
+
+.glyphicon-menu-down:before {
+	font-size: 14px;
+}
+
+.container-fluid {
+	padding: 0px;
+}
+
+.carousel {
+	margin-top: 51px;
+	height: 400px;
+	max-width: 100%;
+}
+
+.carousel-h {
+	position: relative;
+	height: 400px;
+	max-width: 100%;
+	margin: 20px 0px;
+}
+
+#carousel-img {
+	height: 400px;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+#carousel-indicators li.active {
+	width: 36px;
+	height: 5px;
+	margin: 1px;
+	background-color: #FFFFFF;
+	border: 1px solid rgba(0,0,0,0.32);
+}
+
+#carousel-indicators li {
+	width: 36px;
+	height: 5px;
+	border-radius: unset;
+	background-color: rgba(0,0,0,0.32);
+	border: unset;
+}
+
+#carousel {
+	left: 0;
+	right: 0;
+}
+
+#carousel h3 {
+	font-family: 'Contrail One', cursive;
+	font-size: 34px;
+	background-color: rgba(0,0,0,0.32);
+}
+
+.container {
+	margin: 15px 0px 150px 0px;
+}
+
+.historia h2 {
+	font-size: 18px;
+	font-weight: bold;
+	font-style: italic;
+	margin-bottom: 15px;
+}
+
+.historia p {
+	text-align: justify;
+	line-height: 1.5;
+}
+
+.historia thead th {
+	text-decoration-line: underline;
+	padding: 10px 0px;
+}
+
+.historia tbody th {
+
+}
+
+.footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 60px;
+}
+
+.footer-img {
+	max-height: 90px;
+	padding-bottom: 5px;
+}
+
+footer p {
+	font-size: 11px;
+	color: #333333;
+	margin-bottom: 0px;
+	text-align: center;
+}
+
+.cr {
+	background-color: #9ACD32;
+	margin-top: 5px;
+}
